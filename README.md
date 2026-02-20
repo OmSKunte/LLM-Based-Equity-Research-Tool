@@ -6,19 +6,6 @@ Whether you're working with academic papers, business reports, or structured dat
 
 ---
 
-
-### Home Interface
-![Home Screen](/screenshots/Screenshot%20(914).png)
-![Home Screen](/screenshots/Screenshot%20(916).png)
-![Home Screen](/screenshots/Screenshot%20(917).png)
-
-### Document Upload and Analysis
-![Document Upload](/screenshots/Screenshot%20(920).png)
-
-### Question-Answer Interface
-![QA Interface](/screenshots/Screenshot%20(921).png)
-
-
 ## Features
 
 - **Document Upload and Analysis**  
@@ -53,9 +40,20 @@ Whether you're working with academic papers, business reports, or structured dat
 ## Use Cases
 
 - Academic research and literature analysis  
-- Business or legal document summarization  
+- Business or legal document summarization
 - Exploration of structured data from CSV files  
 - Understanding multilingual content  
 - Quick extraction of key insights from web sources
+
+### Home Interface
+![EquityTool Home Interface](https://github.com/user-attachments/assets/5c00d7e8-6140-4405-a60b-3430d979d7dd)
+### Content Source Selection
+![EquityTool Content Source Selection](https://github.com/user-attachments/assets/9a8c0a98-cbbe-4d63-b8ed-cfcaf0c8f2e8)
+### Document Upload & Processing
+![EquityTool Document Upload](https://github.com/user-attachments/assets/64bbc626-91b7-4c7b-9448-160ec627e11d)
+### Contextual Q&A Response
+![EquityTool Contextual Q&A Response](https://github.com/user-attachments/assets/fa50e114-69ca-4046-b68c-ae02873e1527)
+###  Multilingual Q&A Response
+![EquityTool Multilingual Response](https://github.com/user-attachments/assets/daebcef4-cbda-4fd4-a23f-85dd25ac7a47)
 
 ---
